@@ -1,4 +1,4 @@
-# Python implementation for Leaky Bucket Algorrithm
+# Python implementation for Leaky Bucket Algorithm
 
 import time
 from collections import deque
